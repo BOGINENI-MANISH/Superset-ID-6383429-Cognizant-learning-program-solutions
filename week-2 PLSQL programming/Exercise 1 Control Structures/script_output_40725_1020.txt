@@ -1,0 +1,131 @@
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.005
+
+
+Table CUSTOMERS created.
+
+Elapsed: 00:00:00.017
+
+
+Table CUSTOMERS altered.
+
+Elapsed: 00:00:00.026
+
+
+Table ACCOUNTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table TRANSACTIONS created.
+
+Elapsed: 00:00:00.011
+
+
+Table LOANS created.
+
+Elapsed: 00:00:00.011
+
+
+Table EMPLOYEES created.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.014
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.010
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.012
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+Commit complete.
+
+Elapsed: 00:00:00.002
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.094
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.019
+
+Reminder: Loan ID 1 for customer John Doe is due on 14-JUL-2025
+Reminder: Loan ID 3 for customer Robert Brown is due on 24-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.016
+
+Reminder: Loan ID 1 for customer John Doe is due on 14-JUL-2025
+Reminder: Loan ID 3 for customer Robert Brown is due on 24-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.019
