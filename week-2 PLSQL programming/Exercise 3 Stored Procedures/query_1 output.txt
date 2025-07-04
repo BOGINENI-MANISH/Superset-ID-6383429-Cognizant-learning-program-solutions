@@ -1,0 +1,28 @@
+
+
+Procedure PROCESSMONTHLYINTEREST compiled
+
+Elapsed: 00:00:00.023
+ACCOUNTID CUSTOMERID ACCOUNTTYPE BALANCE LASTMODIFIED              
+--------- ---------- ----------- ------- ------------------------- 
+1         1          Savings     12000   07/04/2025, 10:06:16 AM   
+2         2          Checking    9000    07/04/2025, 10:06:16 AM   
+3         3          Savings     8000    07/04/2025, 10:06:16 AM   
+
+Elapsed: 00:00:00.013
+3 rows selected. 
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.012
+ACCOUNTID CUSTOMERID ACCOUNTTYPE BALANCE LASTMODIFIED              
+--------- ---------- ----------- ------- ------------------------- 
+1         1          Savings     12120   07/04/2025, 10:06:16 AM   
+2         2          Checking    9000    07/04/2025, 10:06:16 AM   
+3         3          Savings     8080    07/04/2025, 10:06:16 AM   
+
+Elapsed: 00:00:00.001
+3 rows selected. 
+

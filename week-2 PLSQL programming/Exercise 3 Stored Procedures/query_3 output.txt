@@ -1,0 +1,82 @@
+
+
+Procedure PROCESSMONTHLYINTEREST compiled
+
+Elapsed: 00:00:00.023
+ACCOUNTID CUSTOMERID ACCOUNTTYPE BALANCE LASTMODIFIED              
+--------- ---------- ----------- ------- ------------------------- 
+1         1          Savings     12000   07/04/2025, 10:06:16 AM   
+2         2          Checking    9000    07/04/2025, 10:06:16 AM   
+3         3          Savings     8000    07/04/2025, 10:06:16 AM   
+
+Elapsed: 00:00:00.013
+3 rows selected. 
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.012
+ACCOUNTID CUSTOMERID ACCOUNTTYPE BALANCE LASTMODIFIED              
+--------- ---------- ----------- ------- ------------------------- 
+1         1          Savings     12120   07/04/2025, 10:06:16 AM   
+2         2          Checking    9000    07/04/2025, 10:06:16 AM   
+3         3          Savings     8080    07/04/2025, 10:06:16 AM   
+
+Elapsed: 00:00:00.001
+3 rows selected. 
+
+
+
+Procedure UPDATEEMPLOYEEBONUS compiled
+
+Elapsed: 00:00:00.014
+EMPLOYEEID NAME            POSITION    SALARY DEPARTMENT HIREDATE                  
+---------- --------------- ----------- ------ ---------- ------------------------- 
+1          Alice Johnson   Manager     70000  HR         06/15/2015, 05:30:00 AM   
+2          Bob Brown       Developer   60000  IT         03/20/2017, 05:30:00 AM   
+
+Elapsed: 00:00:00.086
+2 rows selected. 
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.009
+EMPLOYEEID NAME            POSITION    SALARY DEPARTMENT HIREDATE                  
+---------- --------------- ----------- ------ ---------- ------------------------- 
+1          Alice Johnson   Manager     77000  HR         06/15/2015, 05:30:00 AM   
+2          Bob Brown       Developer   60000  IT         03/20/2017, 05:30:00 AM   
+
+Elapsed: 00:00:00.001
+2 rows selected. 
+
+
+
+Procedure TRANSFERFUNDS compiled
+
+Elapsed: 00:00:00.019
+ACCOUNTID CUSTOMERID ACCOUNTTYPE BALANCE LASTMODIFIED              
+--------- ---------- ----------- ------- ------------------------- 
+1         1          Savings     12120   07/04/2025, 10:06:16 AM   
+2         2          Checking    9000    07/04/2025, 10:06:16 AM   
+3         3          Savings     8080    07/04/2025, 10:06:16 AM   
+
+Elapsed: 00:00:00.007
+3 rows selected. 
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.012
+ACCOUNTID CUSTOMERID ACCOUNTTYPE BALANCE LASTMODIFIED              
+--------- ---------- ----------- ------- ------------------------- 
+1         1          Savings     11620   07/04/2025, 10:06:16 AM   
+2         2          Checking    9500    07/04/2025, 10:06:16 AM   
+3         3          Savings     8080    07/04/2025, 10:06:16 AM   
+
+Elapsed: 00:00:00.001
+3 rows selected. 
+
